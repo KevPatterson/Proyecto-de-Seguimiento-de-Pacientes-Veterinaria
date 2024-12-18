@@ -113,5 +113,3 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 
 ¡Gracias por visitar este proyecto! 🐶✨  
 Si encuentras algún error o sugerencia, no dudes en crear un **Issue** en el repositorio.
-
-```

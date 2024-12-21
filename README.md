@@ -83,13 +83,6 @@ npm run dev
 
 ---
 
-## 👤 **Autor**
-
-- **Nombre**: [KevPatterson]  
-- **GitHub**: [https://github.com/KevPatterson](https://github.com/KevPatterson) 
-
----
-
 ## 🌟 **Cómo Contribuir**
 
 Si deseas contribuir a este proyecto, sigue estos pasos:
